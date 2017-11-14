@@ -1,0 +1,72 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="lh.com" resolutions="1x" timestamp="1510673942919">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="page3.css" crc="3948213103" ref="page3"/>
+    <file name="page4.css" crc="3817838776" ref="page4"/>
+    <file name="iefonts_page4.css" crc="424511506" ref="page4"/>
+    <file name="page2.css" crc="3873560798" ref="page2"/>
+    <file name="index.css" crc="182337351" ref="index"/>
+    <file name="page1.css" crc="3982431591" ref="page1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:page1:page2:page3:page4"/>
+    <file name="museutils.js" crc="3851988764" ref="index:page1:page2:page3:page4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page1:page2:page3:page4"/>
+    <file name="museconfig.js" crc="169177150" ref="index:page1:page2:page3:page4"/>
+    <file name="pie.js" crc="3831537696" ref="index:page1:page2:page3:page4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:page1:page2:page3:page4"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="index:page1:page2:page3:page4"/>
+    <file name="require.js" crc="4108833657" ref="index:page1:page2:page3:page4"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="page1:page2"/>
+    <file name="webpro.js" crc="4067903014" ref="page4"/>
+    <file name="form_check.php" crc="121412709" ref="page4"/>
+    <file name="form_throttle.php" crc="4268640971" ref="page4"/>
+    <file name="form_process.php" crc="444429785" ref="page4"/>
+    <file name="form-u3730.php" crc="407624084" ref="page4"/>
+  </folder>
+  <folder name="images">
+    <file name="vkontakte-logo-u2118.png" crc="86734163" ref="index"/>
+    <file name="vkontakte-logo-u2118-r.png" crc="54499803" ref="index"/>
+    <file name="instagram-u2121.png" crc="3768025935" ref="index"/>
+    <file name="instagram-u2121-r.png" crc="80289405" ref="index"/>
+    <file name="tumblr_n78s2c5sav1qkb3gao1_1280.jpg" crc="4198393469" ref="index"/>
+    <file name="vkontakte-logo-u2245.png" crc="86734163" ref="page1"/>
+    <file name="vkontakte-logo-u2245-r.png" crc="54499803" ref="page1"/>
+    <file name="instagram-u2244.png" crc="3768025935" ref="page1"/>
+    <file name="instagram-u2244-r.png" crc="80289405" ref="page1"/>
+    <file name="background-2850091.jpg" crc="4205917675" ref="page1"/>
+    <file name="handshake.png" crc="200248785" ref="page2"/>
+    <file name="group1.png" crc="3917968353" ref="page2"/>
+    <file name="like.png" crc="389447022" ref="page2"/>
+    <file name="list.png" crc="240424450" ref="page2"/>
+    <file name="bar-chart.png" crc="434998233" ref="page2"/>
+    <file name="group.png" crc="3955124823" ref="page2"/>
+    <file name="vkontakte-logo-u2274.png" crc="86734163" ref="page2"/>
+    <file name="vkontakte-logo-u2274-r.png" crc="54499803" ref="page2"/>
+    <file name="instagram-u2273.png" crc="3768025935" ref="page2"/>
+    <file name="instagram-u2273-r.png" crc="80289405" ref="page2"/>
+    <file name="1111111.jpg" crc="4074276567" ref="page2"/>
+    <file name="vkontakte-logo-u2303.png" crc="86734163" ref="page3"/>
+    <file name="vkontakte-logo-u2303-r.png" crc="54499803" ref="page3"/>
+    <file name="instagram-u2302.png" crc="3768025935" ref="page3"/>
+    <file name="instagram-u2302-r.png" crc="80289405" ref="page3"/>
+    <file name="situatsiia-skalolaz-siluet-gora-alpinist-strakhovka-tsel-neb.jpg" crc="299090346" ref="page3"/>
+    <file name="vkontakte-logo-u3361.png" crc="86734163" ref="page4"/>
+    <file name="vkontakte-logo-u3361-r.png" crc="54499803" ref="page4"/>
+    <file name="instagram-u3362.png" crc="3768025935" ref="page4"/>
+    <file name="instagram-u3362-r.png" crc="80289405" ref="page4"/>
+    <file name="avatar.png" crc="523502601" ref="page4"/>
+    <file name="envelope.png" crc="3906628351" ref="page4"/>
+    <file name="u3732-17.png" crc="360572345" ref="page4"/>
+    <file name="map2-u3732-17-r.png" crc="233754822" ref="page4"/>
+    <file name="map2-u3732-17-m.png" crc="233754822" ref="page4"/>
+    <file name="u3732-17-fs.png" crc="360572345" ref="page4"/>
+    <file name="phone-call.png" crc="127455783" ref="page4"/>
+    <file name="mb_2010-03-10_seagullthor.jpg" crc="4127616009" ref="page4"/>
+  </folder>
+  <file name="index.html" crc="3868469051" seo="true" mt="1510673750187" redirect="true"/>
+  <file name="page1.html" crc="3915045523" seo="true" mt="1510673702811" redirect="true"/>
+  <file name="page2.html" crc="292864301" seo="true" mt="1510673714230" redirect="true"/>
+  <file name="page3.html" crc="3773567263" seo="true" mt="1510673726391" redirect="true"/>
+  <file name="page4.html" crc="4134252866" seo="true" mt="1510673741855" redirect="true"/>
+</manifest>
